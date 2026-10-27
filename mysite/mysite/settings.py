@@ -138,4 +138,4 @@ MAILERS = {
     },
 }
 
-AUTH_USER_MODEL = 'restauran.UserProfile'
+AUTH_USER_MODEL = 'restauran.Profile'
